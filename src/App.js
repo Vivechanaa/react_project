@@ -9,7 +9,7 @@ function App() {
           <h2>Hello React</h2>
           <h1>Debugging of React Application</h1>
 
-          <cc/>
+          <CC/>
     </div>
   );
 }
